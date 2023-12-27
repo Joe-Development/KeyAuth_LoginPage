@@ -1,0 +1,8 @@
+2023-12-07 7:32:30 AM > You must run the function KeyAuthApp.init(); first
+2023-12-07 7:33:18 AM > You must run the function KeyAuthApp.init(); first
+2023-12-07 7:34:37 AM > You must run the function KeyAuthApp.init(); first
+2023-12-07 7:35:31 AM > You must run the function KeyAuthApp.init(); first
+2023-12-07 7:37:28 AM > You must run the function KeyAuthApp.init(); first
+2023-12-07 7:38:22 AM > You must run the function KeyAuthApp.init(); first
+2023-12-07 7:38:31 AM > You must run the function KeyAuthApp.init(); first
+2023-12-07 7:45:14 AM > You must run the function KeyAuthApp.init(); first
