@@ -43,3 +43,10 @@ Contributions are welcome! Follow these steps to contribute to the project:
 3. Make sure to Put Me In Credits
 
 4. I will Check i out
+
+## Dependencies
+
+This project relies on the following dependencies:
+
+- [Guna](https://gunaframework.com/) is a powerful UI framework for C# and VB.NET. It provides a wide range of customizable UI controls and components to enhance the visual appeal and functionality of your Windows Forms applications.
+
