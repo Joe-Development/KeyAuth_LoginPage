@@ -31,3 +31,15 @@ Before you begin, make sure you have the following installed:
 ### KeyAuth Login Page
 
 - [KeyAuth Dashboard](https://keyauth.cc/app/)
+
+## Contributing
+
+Contributions are welcome! Follow these steps to contribute to the project:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix:
+
+3. Make sure to Put Me In Credits
+
+4. I will Check i out
