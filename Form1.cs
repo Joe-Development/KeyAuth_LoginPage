@@ -6,11 +6,11 @@ namespace AgoraSpooferKeySYS
 {
     public partial class Form1 : Form
     {
-        public static api KeyAuthApp = new api(
-            name: "AgoraSpoofer",
-            ownerid: "GH4UmwVHfL",
-            secret: "931e34b8d3ec208a4ed27bdba50a6d56b709fe1d7734cc784b6662f500369404",
-            version: "1.0"
+        public static api KeyAuthApp = new api( // Make sure to set this to your KeyAuth API Setup
+            name: "",
+            ownerid: "",
+            secret: "",
+            version: ""
         );
 
         public Form1()
