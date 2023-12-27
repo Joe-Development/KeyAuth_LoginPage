@@ -28,3 +28,6 @@ Before you begin, make sure you have the following installed:
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
 
+### KeyAuth Login Page
+
+- [KeyAuth Dashboard](https://keyauth.cc/app/)
