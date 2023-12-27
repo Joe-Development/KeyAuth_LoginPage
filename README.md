@@ -8,7 +8,6 @@ This project demonstrates a simple implementation of a login page using KeyAuth 
 - [KeyAuth](#keyauth)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
