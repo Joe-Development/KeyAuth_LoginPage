@@ -2,16 +2,6 @@
 
 This project demonstrates a simple implementation of a login page using KeyAuth authentication in C#.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [KeyAuth](#keyauth)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Welcome to the KeyAuth Login Page in C# project! This project aims to provide a basic example of how to integrate KeyAuth authentication into a C# application.
